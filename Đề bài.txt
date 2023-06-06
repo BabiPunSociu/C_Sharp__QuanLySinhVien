@@ -1,0 +1,6 @@
+Quản lý sinh viên
+- Xây dựng lớp sinh viên quản lý Họ tên, Ngày sinh, Điểm thi môn Lập trình, Cơ sở dữ liệu, Thiết kế web.
+- Xây dựng lớp danh sách gồm N sinh viên
+- Đưa ra số lượng sinh viên được làm khoá luận tốt nghiệp; Số lượng sinh viên làm chuyên đề tốt nghiệp với các điều 	kiện:
+	+ Làm khoá luận nếu điểm Trung bình >= 8 và không môn nào dưới 5
+	+ Làm chuyên đề tốt nghiệp nếu Không có môn nào dưới 5
